@@ -1,0 +1,10 @@
+{
+  "servers": [
+    {
+      "id": "ffnord",
+      "name": "Freifunk Nord",
+      "default": true,
+      "ignoreRouters": ["tarp1"]
+    }
+  ]
+}
