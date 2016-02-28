@@ -1,7 +1,7 @@
 {
-  "name": "d-zone",
-  "version": "0.1.35",
-  "description": "An ambient life simulation driven by the user activity within a Discord server",
+  "name": "ff-zone",
+  "version": "0.0.1",
+  "description": "An ambient life simulation driven by the user activity within a Freifunk Network",
   "main": "index.js",
   "dependencies": {
     "brfs": "^1.4.1",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vegeta897/d-zone.git"
+    "url": "git+https://github.com/MTRNord/ff-zone.git"
   },
   "keywords": [
     "discord",
@@ -36,7 +36,7 @@
   "author": "Devin Spikowski",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vegeta897/d-zone/issues"
+    "url": "https://github.com/MTRNord/ff-zone/issues"
   },
-  "homepage": "https://github.com/vegeta897/d-zone#readme"
+  "homepage": "https://github.com/MTRNord/ff-zone#readme"
 }
