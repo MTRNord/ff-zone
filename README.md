@@ -1,10 +1,13 @@
-# D-Zone
-An _ambient life simulation_ driven by the user activity within a [Discord](https://discordapp.com) server
+# FF-Zone
 
-[![D-Zone](http://i.imgur.com/PLh059j.gif "Hippity hop!")](http://pixelatomy.com/dzone/)
+#NEED REWORK
+
+An _ambient life simulation_ driven by the user activity within a [Freifunk](https://freifunk.net) Network
+
+[![FF-Zone](http://i.imgur.com/PLh059j.gif "Hippity hop!")](http://pixelatomy.com/dzone/)
 
 ## Concept
-**D-Zone** is a graphical simulation meant to abstractly represent the activity in your Discord server.
+**FF-Zone** is a graphical simulation meant to abstractly represent the activity in your Freifunk Network.
 
 This is not meant for any actual monitoring or diagnostics, only an experiment in the abstraction of chatroom data represented via autonomous characters in a scene.
 
@@ -16,7 +19,7 @@ If you're an absolute beginner and have never used Node, I have written a more [
 
 This project is still **very early in development**, so there isn't much point in running it yet. But in case you're curious, here's what you need to do:
 
-`npm install d-zone --no-optional`
+`npm install ff-zone --no-optional`
 
 Contained in the package are the server files and client files.
 
