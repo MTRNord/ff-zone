@@ -2,6 +2,8 @@
 
 #NEED REWORK
 
+[![mtrnord MyGet Build Status](https://www.myget.org/BuildSource/Badge/mtrnord?identifier=d3db16b6-85e0-4aff-8e0a-e045754b015f)](https://www.myget.org/)
+
 An _ambient life simulation_ driven by the user activity within a [Freifunk](https://freifunk.net) Network
 
 [![FF-Zone](http://i.imgur.com/PLh059j.gif "Hippity hop!")](http://pixelatomy.com/dzone/)
