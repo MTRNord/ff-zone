@@ -4,3 +4,6 @@ patch:
   'npm:minimatch:20160620':
     - uglifyify > minimatch:
         patched: '2016-09-03T17:06:08.711Z'
+  'npm:moment:20161019':
+    - convict > moment:
+        patched: '2016-10-24T15:19:30.573Z'
