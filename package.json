@@ -15,7 +15,7 @@
     "uglifyify": "^3.0.1",
     "watchify": "latest",
     "websocket-stream": "3.0.0",
-    "ws": "1.1.1",
+    "ws": "2.0.0",
     "snyk": "^1.19.1"
   },
   "scripts": {
