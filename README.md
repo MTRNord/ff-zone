@@ -1,5 +1,7 @@
 # FF-Zone
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MTRNord/ff-zone.svg)](https://greenkeeper.io/)
+
 #NEED REWORK
 
 [![mtrnord MyGet Build Status](https://www.myget.org/BuildSource/Badge/mtrnord?identifier=d3db16b6-85e0-4aff-8e0a-e045754b015f)](https://www.myget.org/)
